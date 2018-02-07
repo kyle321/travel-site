@@ -1,0 +1,13 @@
+$miniclor:blue;
+body{
+	background-color: red;
+	columns: 20px 2;
+	color:$miniclor;
+}
+
+.box{
+	a{
+		padding: 10px;
+		margin-bottom: 2px;
+	}
+}

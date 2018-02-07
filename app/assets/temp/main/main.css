@@ -1,0 +1,11 @@
+body{
+	background-color: red;
+	-webkit-columns: 20px 2;
+	        columns: 20px 2;
+	color:blue;
+}
+
+.box a{
+		padding: 10px;
+		margin-bottom: 2px;
+	}
